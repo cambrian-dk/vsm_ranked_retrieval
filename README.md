@@ -7,7 +7,7 @@ Python programs to index and process queries using the Vector Space Model (VSM),
 
 Written in Python 3.8.2
 
-[Install nltk for python](https://www.nltk.org/install.html}, then:
+[Install nltk for python](https://www.nltk.org/install.html), then:
 
 Import the Reuters Corpus:
 ```
